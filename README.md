@@ -1,15 +1,15 @@
 # NanoTekSpice
 
-### Utilisation:
+### Use:
 ```
 $ make re
 $ ./nanotekspice [Config File] [Options]
 ```
 
-### Informations sur le projet:
+### Project informations :
 
-Création de différente Chipsets et utilisation des différentes Chipsets via un fichier de configuration.
+Nonotekspice project implement differents chipsets. You can use those chipsets with the configuration file.
 
-Suit l'ancienne norme Epitech.
+It had been coded following Epitech's standart.
 
-Plus d'informations dans NanoTekSpice.pdf.
+More informations in NanoTekSpice.pdf.
